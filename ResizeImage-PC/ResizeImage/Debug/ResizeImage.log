@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  ResizeImage.cpp
+c:\users\sasha\onedrive\документи\visual studio 2015\projects\resizeimage\resizeimage\resizeimage.cpp(98): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\sasha\onedrive\документи\visual studio 2015\projects\resizeimage\resizeimage\resizeimage.cpp(106): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\sasha\onedrive\документи\visual studio 2015\projects\resizeimage\resizeimage\resizeimage.cpp(112): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\sasha\onedrive\документи\visual studio 2015\projects\resizeimage\resizeimage\resizeimage.cpp(118): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ResizeImage.vcxproj -> c:\users\sasha\onedrive\документи\visual studio 2015\Projects\ResizeImage\Debug\ResizeImage.exe
+  ResizeImage.vcxproj -> c:\users\sasha\onedrive\документи\visual studio 2015\Projects\ResizeImage\Debug\ResizeImage.pdb (Full PDB)
